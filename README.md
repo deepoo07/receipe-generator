@@ -40,7 +40,7 @@ recipe-generator/
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/recipe-generator.git
+git clone https://github.com/deepoo07/recipe-generator.git
 cd recipe-generator
 
 2. Create virtual environment (recommended)
